@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Qlasta
+- 👋 Hi, I’m @Qlasta, just finished a course of Python.
 - 👀 I’m interested in creating apps or tools for productivity, automation, developing business management software. 
-- 🌱 I’m currently learning Django, planing to learn Flutter.
+- 🌱 I’m currently learning Django, also have Flutter in my future plans.
 
 
 <!---
